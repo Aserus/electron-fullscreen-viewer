@@ -4,5 +4,6 @@ declare namespace NodeJS {
     QUASAR_ELECTRON_PRELOAD_FOLDER: string;
     QUASAR_ELECTRON_PRELOAD_EXTENSION: string;
     APP_URL: string;
+    APP_HOME_URL: string;
   }
 }
